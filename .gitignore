@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# 证书文件（敏感信息，不要提交到仓库）
+*.crt
+*.key
+
+# 截图文件
+screenshot_*.jpg
+captured.jpg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.codegraph/
+
+# 虚拟环境
+venv/
+.venv/
+env/

@@ -1,0 +1,10 @@
+opencv-python>=4.5.0
+numpy>=1.21.0
+cryptography>=3.4.0
+PyQt5>=5.15.0
+mss>=9.0.0
+Pillow>=9.0.0
+
+# 可选依赖（用于截图的备选方案）
+# mss
+# Pillow
